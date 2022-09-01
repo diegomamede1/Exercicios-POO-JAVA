@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Numeros
+comment1.params=
+comment1.target=Numeros()
+comment2.params=pNumero\ sNumero
+comment2.target=Numeros(int,\ int)
+comment3.params=
+comment3.target=int\ getPN()
+comment4.params=
+comment4.target=void\ setPN()
+comment5.params=pNumero
+comment5.target=int\ getSN(int)
+comment6.params=sNumero
+comment6.target=void\ setSN(int)
+comment7.params=pNumero\ sNumero
+comment7.target=int\ numeroImpar(int,\ int)
+numComments=8

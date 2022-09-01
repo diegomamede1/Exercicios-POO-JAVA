@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment1.params=
+comment1.target=Triangulo()
+comment10.params=
+comment10.target=double\ perimetro()
+comment11.params=
+comment11.target=java.lang.String\ tipoTriangulo()
+comment2.params=ctOposto\ hipotenusa\ ctAdjacente
+comment2.target=Triangulo(double,\ double,\ double)
+comment3.params=
+comment3.target=double\ getCtOposto()
+comment4.params=ctOposto
+comment4.target=void\ setCtOposto(double)
+comment5.params=
+comment5.target=double\ getHipotenusa()
+comment6.params=hipotenusa
+comment6.target=void\ setHipotenusa(double)
+comment7.params=
+comment7.target=double\ getCtAdjacente()
+comment8.params=ctAdjacente
+comment8.target=void\ setCtAdjacente(double)
+comment9.params=
+comment9.target=double\ area()
+numComments=12
